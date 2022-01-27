@@ -1,0 +1,1 @@
+tellraw @a [{"text":"[ Activated ✔ ] ","italic":true,"color":"green"},{"text":"Dolphin Armor ","color":"gold"},{"text":"by Nekå","color":"yellow","clickEvent":{"action":"open_url","value":"https://github.com/Nekall"}}]

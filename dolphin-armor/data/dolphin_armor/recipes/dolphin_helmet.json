@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "SHS",
+    "S S"
+  ],
+  "key":
+  {
+    "S":
+    {
+      "item": "minecraft:scute"
+    },
+    "H":
+    {
+      "item": "minecraft:heart_of_the_sea"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:knowledge_book"
+  }
+}

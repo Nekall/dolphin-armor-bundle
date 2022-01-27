@@ -1,0 +1,1 @@
+effect give @a[nbt={Inventory:[{Slot:103b,id:"minecraft:leather_helmet",tag:{CustomNBTData:"dolphin_helmet"}},{Slot:102b,id:"minecraft:leather_chestplate",tag:{CustomNBTData:"dolphin_chestplate"}},{Slot:101b,id:"minecraft:leather_leggings",tag:{CustomNBTData:"dolphin_leggings"}},{Slot:100b,id:"minecraft:leather_boots",tag:{CustomNBTData:"dolphin_boots"}}]}] dolphins_grace

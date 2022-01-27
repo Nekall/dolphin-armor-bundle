@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "dolphin_armor:dolphin_chestplate"
+            }
+        }
+    },
+    "rewards": {
+        "function": "dolphin_armor:crafted_dolphin_chestplate"
+    }
+}
