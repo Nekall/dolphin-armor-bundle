@@ -17,7 +17,7 @@ The effects will disappear, if you remove a piece of armor, in 30 seconds.
   
 ---
 
-**Preview:**  
-<img href="https://i.goopics.net/uk5o2g.gif" alt="demonstration" height="100" width="100"/>
+**Preview:** 
+[![Preview gif](https://i.goopics.net/e0yw5q.gif)](https://i.goopics.net/e0yw5q.gif)
 ---
 *This is my second Datapack, be nice.*
